@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">801797182053-350tg1ump22cf9nm8t4f8qpefcdlk5tu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mandi-128e3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">801797182053</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvgTYpJb6QuN9BuNx8VMRbt0pvknmQY2s</string>
+    <string name="google_app_id" translatable="false">1:801797182053:android:4e09621865ed63dd032c8c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvgTYpJb6QuN9BuNx8VMRbt0pvknmQY2s</string>
+    <string name="google_storage_bucket" translatable="false">mandi-128e3.appspot.com</string>
+    <string name="project_id" translatable="false">mandi-128e3</string>
+</resources>

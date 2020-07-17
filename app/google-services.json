@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "801797182053",
+    "firebase_url": "https://mandi-128e3.firebaseio.com",
+    "project_id": "mandi-128e3",
+    "storage_bucket": "mandi-128e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801797182053:android:4e09621865ed63dd032c8c",
+        "android_client_info": {
+          "package_name": "com.example.mandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801797182053-ai65d6u9jvoejktqct1qjtku8aiu4r4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mandi",
+            "certificate_hash": "0783dea4a1774ef271c40937f3bd268b40c8297e"
+          }
+        },
+        {
+          "client_id": "801797182053-350tg1ump22cf9nm8t4f8qpefcdlk5tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvgTYpJb6QuN9BuNx8VMRbt0pvknmQY2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801797182053-350tg1ump22cf9nm8t4f8qpefcdlk5tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
