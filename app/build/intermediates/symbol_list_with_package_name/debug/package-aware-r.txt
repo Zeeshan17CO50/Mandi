@@ -1676,6 +1676,7 @@ drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable correct
+drawable cow1
 drawable cross
 drawable crossicon
 drawable design_bottom_navigation_item_background
@@ -1685,8 +1686,14 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable down
+drawable foam
+drawable g1
+drawable g2
+drawable g3
+drawable g4
 drawable goat
 drawable goat1
+drawable goat_right
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable hash
@@ -1707,6 +1714,7 @@ drawable input_design
 drawable kid1
 drawable l
 drawable lb1
+drawable leaf
 drawable location
 drawable login
 drawable loginback
@@ -1737,8 +1745,10 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable orchid
 drawable per
 drawable phone
+drawable plane1
 drawable reg
 drawable rotate
 drawable shake
@@ -1746,6 +1756,8 @@ drawable smile
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable wood1
+drawable wood_hor
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1984,6 +1996,11 @@ id progress_horizontal
 id query
 id radio
 id rectangle
+id register_applogo
+id register_btn
+id register_password_input
+id register_phone_number_input
+id register_username_input
 id relativeLayout
 id remember_me_chkb
 id right
@@ -2147,6 +2164,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login
 layout activity_main
+layout activity_register2
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

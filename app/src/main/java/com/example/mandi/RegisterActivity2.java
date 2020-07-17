@@ -18,7 +18,9 @@ public class RegisterActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_register2);
 
         CreateAccountButton = (Button) findViewById(R.id.register_btn);
-        CreateAccountButton = (EditText) findViewById(R.id.register_btn);
+        InputName = (EditText) findViewById(R.id.register_username_input);
+        InputPassword = (EditText) findViewById(R.id.register_password_input);
+        InputPhoneNumber = (EditText) findViewById(R.id.register_phone_number_input);
 
     }
 }
